@@ -21,6 +21,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ProfilActivity" />
+        <activity android:name=".CatalogueActivity" />
     </application>
 
 </manifest>
+
